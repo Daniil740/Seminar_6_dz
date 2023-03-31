@@ -1,0 +1,15 @@
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\bin\Debug\net7.0\Bryukvin_Daniil_Zadanie_41.exe
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\bin\Debug\net7.0\Bryukvin_Daniil_Zadanie_41.deps.json
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\bin\Debug\net7.0\Bryukvin_Daniil_Zadanie_41.runtimeconfig.json
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\bin\Debug\net7.0\Bryukvin_Daniil_Zadanie_41.dll
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\bin\Debug\net7.0\Bryukvin_Daniil_Zadanie_41.pdb
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_41.csproj.AssemblyReference.cache
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_41.AssemblyInfoInputs.cache
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_41.AssemblyInfo.cs
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_41.csproj.CoreCompileInputs.cache
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_41.dll
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\obj\Debug\net7.0\refint\Bryukvin_Daniil_Zadanie_41.dll
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_41.pdb
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\obj\Debug\net7.0\Bryukvin_Daniil_Zadanie_41.genruntimeconfig.cache
+C:\Users\mif74\OneDrive\Рабочий стол\ДЗ\C#\Seminar_6_dz\Bryukvin_Daniil_Zadanie_41\obj\Debug\net7.0\ref\Bryukvin_Daniil_Zadanie_41.dll
